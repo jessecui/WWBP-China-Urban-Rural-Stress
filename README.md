@@ -24,7 +24,7 @@ Run the bash script as follows to run HLM:
 ## Citation
 ```
     @article{cui2022icwsm,
-        title={Understanding Urban-Rural Differences in Stress in China Using Hierarchical Linear Modeling},
+        title={Social Media Reveals Urban-Rural Differences in Stress across China},
         author={Cui, Jesse and Zhang, Tingdan and Pang, Dandan and Jaidka, Kokil and Sherman, Garrick and Jakhetiya, Vinit and Ungar, Lyle, and Guntuku, Sharath Chandra},
         journal={Proceedings of the International AAAI Conference on Web and Social Media}, 
         year={2022}
@@ -33,5 +33,5 @@ Run the bash script as follows to run HLM:
 
 ```
 APA
-Cui, J., Zhang, T., Pang, D., Jaidka, D., Sherman, G., Jakhetiya, V., Ungar, L., & Guntuku, S. C. (2022). Understanding Urban-Rural Differences in Stress in China Using Hierarchical Linear Modeling. Proceedings of the International AAAI Conference on Web and Social Media (ICWSM)
+Cui, J., Zhang, T., Pang, D., Jaidka, D., Sherman, G., Jakhetiya, V., Ungar, L., & Guntuku, S. C. (2022). Social Media Reveals Urban-Rural Differences in Stress across China. Proceedings of the International AAAI Conference on Web and Social Media (ICWSM)
 ```
